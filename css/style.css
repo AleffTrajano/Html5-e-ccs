@@ -1,0 +1,28 @@
+body{
+    background: rgb(246, 246, 246);
+    margin-left: 100px;
+    margin-right: 200px;
+
+}
+header{
+    margin-top: 70px;
+}
+img{
+    margin-bottom: 40px;
+}
+
+.img_email{
+
+    margin-bottom: auto;
+    width: 60px;
+}
+.img_tell{
+    margin-bottom: auto;
+    width: 60px;
+}
+.img_eu{
+    width: 150px;
+}
+footer{
+    margin-bottom: 30px;
+}
